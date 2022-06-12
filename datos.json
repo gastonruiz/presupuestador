@@ -1,0 +1,13 @@
+{  
+    "techo":"3 paños",
+     "capot": "3 paños", 
+      "tapaBaul":"2 paños",
+     "puertaConductor":"1 paño",
+      "puertaConductorTrasera":"1 paño",
+     "puertaAcompañante":"1 paño",
+      "puertaAcompañanteTrasera":"1 paño",
+     "guardabarroDelanteroConductor":"1 paño",
+     "guardabarroTraseroConductor":"1 paño",
+     "guardabarroDelanteroAcompañante":"1 paño",
+     "guardabarroTraseroAcompañante":"1 paño"
+     }

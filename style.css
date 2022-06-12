@@ -1,0 +1,29 @@
+.container {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .formulario {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+  }
+  
+  .cuadro {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    margin-left: 20px;
+  }
+  .item {
+    padding: 5px;
+    margin: 2px;
+    border-radius: 6px;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    border-radius: 7px;
+  }
+  
